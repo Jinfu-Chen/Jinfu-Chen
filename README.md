@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Jinfu-Chen, I'm very happy to share my codes with you and learn your project!
 
 <!--
 **Jinfu-Chen/Jinfu-Chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
